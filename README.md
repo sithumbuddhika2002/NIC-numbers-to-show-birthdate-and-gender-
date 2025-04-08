@@ -25,4 +25,4 @@ A simple Python application built with Tkinter to extract birthdate and gender f
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nic-extractor.git
+   git clone [https://github.com/your-username/nic-extractor.git](https://github.com/sithumbuddhika2002/NIC-numbers-to-show-birthdate-and-gender-.git)
